@@ -1,7 +1,7 @@
 # Strong Coding Skill Roadmap
 
 이 레포지토리는 **2026년 2월 7일 ~ 2026년 6월 중순**까지  
-Strong Coding Skill 갖추기를 목표로 하는 “Strong Coding Skill” 학습 과정을 기록하는 공간입니다.[web:6][web:9][web:22]
+Strong Coding Skill 갖추기를 목표로 하는 “Strong Coding Skill” 학습 과정을 기록하는 공간입니다.
 
 ## 🎯 목표
 
