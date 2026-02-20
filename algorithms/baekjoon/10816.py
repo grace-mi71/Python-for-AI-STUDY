@@ -10,4 +10,4 @@ arr2=list(map(int, input().split()))
 cnt=Counter(arr1)
 
 for t in arr2:
-    print(cnt[t],end='')
+    print(cnt[t],end=' ')
